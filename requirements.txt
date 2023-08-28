@@ -1,0 +1,5 @@
+replicate
+fastapi
+uvicorn
+langchain
+sentence_transformers
